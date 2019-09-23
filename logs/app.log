@@ -1,0 +1,9 @@
+2019-09-23 22:48:51,196 INFO com.mkyong.DemoApplication [restartedMain] Starting DemoApplication on DESKTOP-IKOMI1V with PID 2228 (C:\Users\leste\IdeaProjects\spring-boot-slf4j\target\classes started by leste in C:\Users\leste\IdeaProjects\spring-boot-slf4j)
+2019-09-23 22:48:51,201 DEBUG com.mkyong.DemoApplication [restartedMain] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 22:48:51,201 INFO com.mkyong.DemoApplication [restartedMain] The following profiles are active: prod
+2019-09-23 22:48:57,008 INFO com.mkyong.DemoApplication [restartedMain] Started DemoApplication in 6.38 seconds (JVM running for 10.06)
+2019-09-23 22:49:28,409 DEBUG com.mkyong.HelloController [http-nio-8080-exec-1] Hello from Logback [1, 2, 3, 4, 5]
+2019-09-23 22:52:06,882 INFO com.mkyong.DemoApplication [restartedMain] Starting DemoApplication on DESKTOP-IKOMI1V with PID 9064 (C:\Users\leste\IdeaProjects\spring-boot-slf4j\target\classes started by leste in C:\Users\leste\IdeaProjects\spring-boot-slf4j)
+2019-09-23 22:52:06,885 DEBUG com.mkyong.DemoApplication [restartedMain] Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-09-23 22:52:06,886 INFO com.mkyong.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-09-23 22:52:10,207 INFO com.mkyong.DemoApplication [restartedMain] Started DemoApplication in 3.973 seconds (JVM running for 6.33)
